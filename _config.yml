@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ankit / Portfolio"
+title                    : "Ankit"
 title_separator          : "-"
 name                     : &name "Ankit"
 description              : &description "MSc Artificial Intelligent student at University of Amsterdam"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ankit"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Masters in Artificial Intelligence at University of Amsterdam "
   location         : "Amsterdam, The Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

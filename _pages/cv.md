@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
+* MSc. in Artificial Intelligence, University of Amsterdam, (expected 2023)
 * BTech. in Electronics and Communication Engineering, National Institute of Technology Tiruchirappalli, 2021
-* MSc. in Artificial Intelligence, University of Amsterdam, enrolled 2021
+
 
 Work experience
 ======
