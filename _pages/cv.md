@@ -36,15 +36,17 @@ Work experience
 
 Certifications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Deep Learning Specialization:
+  * Neural Network and Deep Learning
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  * Structuring Machine Learning Projects
+  * ConvolutionalNeuralNetworks
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* DeepLearning.ai TensorFlow Developer Professional Certificate:
+  * Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning Convolutional Neural Networks
+  * Convolutional Neural Network in TensorFlow
+
+* Fundamentals of Digital Image and Video Processing by Northwestern University
   
 Skills
 ======
@@ -55,7 +57,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -71,8 +73,10 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, Office of International Relations, NIT Tiruchirappalli (September 2020 – May 2021)
+* Team Leader oGE (Outgoing Global Entrepreneur), AIESEC in NIT Trichy (August 2019 – Nov. 2019)
+
