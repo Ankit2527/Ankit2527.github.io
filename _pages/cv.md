@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [here](/files/pdf/Ankit_Resume.pdf)."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,7 +22,7 @@ Work experience
   <!-- * Duties included: Tagging issues -->
   * Worked for 4 months remotely in the Pattern Recognition Lab on Differentiable Trainable Renderer for Generative Adversarial Networks which aims to learn the shaders while optimizing the scene parameters
   * Differentiable Rendering (mitsuba 2) based Generator is used which optimizes the scene parameters (xml file) from Blender software and a Convolutional Neural Network used as a discriminator
-  * The input dataset consisted of 180 images of SiO2 particles. The model was trained on NVIDIA RTX 2080 TI GPU
+  * The input dataset consisted of 180 images of SiO2 particles. 
   * Supervisor: Professor. Andreas Maier
 
 * May 2019 - July 2019: Research Internship
