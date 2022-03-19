@@ -50,12 +50,11 @@ Certifications
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages : Python 
+* Deep Learning and Computer Vision Libraries: Tensorflow, Keras, PyTorch, numpy
+* Other Libraries : Scikit-Learn, Pandas
+* Version Control : Git 
+* Computer Graphics Software: Blender
 
 <!-- Publications
 ======
@@ -75,7 +74,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Leadership
 ======
 * President, Office of International Relations, NIT Tiruchirappalli (September 2020 – May 2021)
 * Team Leader oGE (Outgoing Global Entrepreneur), AIESEC in NIT Trichy (August 2019 – Nov. 2019)
