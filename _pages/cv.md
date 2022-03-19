@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [here](/files/pdf/Ankit_Resume.pdf)."
+title: "CV [here](/files/Ankit_Resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
