@@ -24,7 +24,7 @@ Work experience
   <!-- * Duties included: Tagging issues -->
   * Worked for 4 months remotely in the Pattern Recognition Lab on Differentiable Trainable Renderer for Generative Adversarial Networks which aims to learn the shaders while optimizing the scene parameters
   * Differentiable Rendering (mitsuba 2) based Generator is used which optimizes the scene parameters (xml file) from Blender software and a Convolutional Neural Network used as a discriminator
-  * The input dataset consisted of 180 images of SiO2 particles. 
+  * The input dataset consisted of 180 images of SiO2 particles 
   * Supervisor: Professor. Andreas Maier
 
 * May 2019 - July 2019: Research Internship
@@ -39,7 +39,7 @@ Work experience
 Certifications
 ======
 * Deep Learning Specialization:
-  * Neural Network and Deep Learning
+  * Neural Network and Deep Learning 
   * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   * Structuring Machine Learning Projects
   * ConvolutionalNeuralNetworks
@@ -53,7 +53,7 @@ Certifications
 Skills
 ======
 * Programming Languages : Python 
-* Deep Learning and Computer Vision Libraries: Tensorflow, Keras, PyTorch, numpy
+* Deep Learning and Computer Vision Libraries: PyTorch, Tensorflow, Keras, OpenCV
 * Other Libraries : Scikit-Learn, Pandas
 * Version Control : Git 
 * Computer Graphics Software: Blender
