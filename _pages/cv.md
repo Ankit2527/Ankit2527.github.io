@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](/files/Ankit_Resume.pdf)
+For full version - [pdf](/files/Ankit_Resume.pdf)
 
 Education
 ======
