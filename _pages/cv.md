@@ -25,7 +25,7 @@ Work experience
   * Contributed to Sensity’s ID Verification and Document Authentication services
   * Implemented and trained various Deep Learning architectures in Classy Vision a PyTorch-based framework: ResNet-50, MobileNetV2, SiameseNet, and Dual Attention Network
   * Scripting in Python and OpenCV for Synthetic Dataset Generation
-  * Scripted dockerfile and yaml templates to create docker development containers
+  * Scripting dockerfile and yaml templates to create docker development containers
 
 
 * Remote Deep Learning Research Intern: April 2020 - August 2020
@@ -63,13 +63,13 @@ Skills
 * Frameworks and Libraries: Pandas, Matplotlib, PyTorch, PyTorch Lightning, OpenCV, Scikit-Learn, Flask, Classy Vision
 
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
