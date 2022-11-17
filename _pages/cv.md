@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For full version - [pdf](/files/Ankit_Resume.pdf)
+For full version - [pdf](/files/Ankit_ML_CV.pdf)
 
 Education
 ======
@@ -19,21 +19,28 @@ Education
 
 Work experience
 ======
-* April 2020 - August 2020: Remote Deep Learning Research Internship at Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-
-Nanoparticles occur in various environments as a consequence of man-made processes, which raises concerns about their impact on the environment and human health. To allow for proper risk assessment, a precise and statistically relevant analysis of particle characteristics (such as size, shape, and composition) is required and would greatly benefit from automated image analysis procedures. Collecting a real dataset of silicon dioxide nanoparticles is quite expensive. To overcome this issue, I worked on developing a Differentiable Trainable Renderer for Generative Adversarial Networks for the synthetic image rendering of silicon oxide nanoparticles under the guidance of Prof. Andreas Maier.
+* Machine Learning Engineer Intern: June 2022 – Present 
+  * Sensity AI, Amsterdam, Netherlands
   <!-- * Duties included: Tagging issues -->
+  * Contributed to Sensity’s ID Verification and Document Authentication services
+  * Implemented and trained various Deep Learning architectures in Classy Vision a PyTorch-based framework: ResNet-50, MobileNetV2, SiameseNet, and Dual Attention Network
+  * Scripting in Python and OpenCV for Synthetic Dataset Generation
+  * Scripted dockerfile and yaml templates to create docker development containers
+
+
+* Remote Deep Learning Research Intern: April 2020 - August 2020
+  * Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+  <!-- * Duties included: Tagging issues -->
+  * Nanoparticles occur in various environments as a consequence of man-made processes, which raises concerns about their impact on the environment and human health. To allow for proper risk assessment, a precise and statistically relevant analysis of particle characteristics (such as size, shape, and composition) is required and would greatly benefit from automated image analysis procedures. Collecting a real dataset of silicon dioxide nanoparticles is quite expensive. To overcome this issue, I worked on developing a Differentiable Trainable Renderer for Generative Adversarial Networks for the synthetic image rendering of silicon oxide nanoparticles under the guidance of Prof. Andreas Maier.
   * Developed a Differentiable Trainable Renderer for Generative Adversarial Networks using Mitsuba2 and PyTorch
   * Optimized scene parameters with Adversarial Loss for Synthetic Image Rendering of Silicon dioxide nanoparticles
 
-* May 2019 - July 2019: Research Internship
-  * Indian Institute of Technology B.H.U, Varanasi, India
-  <!-- * Duties included: Merging pull requests -->
-  * Worked for 9 weeks in the Visual Computing and Analytics Lab under on Breast Cancer Histopathological Image Classification
-  * Developed and implemented an algorithm using Machine Learning on a dataset containing 5 different folds each with 4 different magnification levels to classify Benign and Malignant
-  * Implemented the following research papers: Local centre of mass face for face recognition under varying illumination, Local force pattern (LFP): Descriptor for heterogeneous face recognition, Completed Local Binary Count for Rotation Invariant Texture Classification
 
-  * Supervisor: Professor Sanjay Kumar Singh
+* Machine Learning Research Intern: May 2019 - July 2019
+  * Visual Computing and Analytics Lab, Indian Institute of Technology B.H.U, Varanasi, India
+  <!-- * Duties included: Merging pull requests -->
+  * Developed an algorithm for Breast Cancer Histopathological Image Classification under the guidance of Prof S.K. Singh
+  * Implemented SVM, Random Forest, Naive Bayes and XGBoost classifiers using the features extracted by the algorithm which resulted in a test accuracy of 97.91%
 
 Certifications
 ======
@@ -51,11 +58,10 @@ Certifications
   
 Skills
 ======
-* Programming Languages : Python 
-* Deep Learning and Computer Vision Libraries: PyTorch, Tensorflow, Keras, OpenCV
-* Other Libraries : Scikit-Learn, Pandas
-* Version Control : Git 
-* Computer Graphics Software: Blender
+* Programming Languages : Python, PostgreSQL
+* Developer Tools: Git, Docker, Wandb, Linux
+* Frameworks and Libraries: Pandas, Matplotlib, PyTorch, PyTorch Lightning, OpenCV, Scikit-Learn, Flask, Classy Vision
+
 
 <!-- Publications
 ======
