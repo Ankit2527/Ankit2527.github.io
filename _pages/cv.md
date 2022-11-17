@@ -19,13 +19,12 @@ Education
 
 Work experience
 ======
-* April 2020 - August 2020: Remote Research Internship
-  * Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+* April 2020 - August 2020: Remote Deep Learning Research Internship at Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+
+Nanoparticles occur in various environments as a consequence of man-made processes, which raises concerns about their impact on the environment and human health. To allow for proper risk assessment, a precise and statistically relevant analysis of particle characteristics (such as size, shape, and composition) is required and would greatly benefit from automated image analysis procedures. Collecting a real dataset of silicon dioxide nanoparticles is quite expensive. To overcome this issue, I worked on developing a Differentiable Trainable Renderer for Generative Adversarial Networks for the synthetic image rendering of silicon oxide nanoparticles under the guidance of Prof. Andreas Maier.
   <!-- * Duties included: Tagging issues -->
-  * Worked for 4 months remotely in the Pattern Recognition Lab on Differentiable Trainable Renderer for Generative Adversarial Networks which aims to learn the shaders while optimizing the scene parameters
-  * Differentiable Rendering (mitsuba 2) based Generator is used which optimizes the scene parameters (xml file) from Blender software and a Convolutional Neural Network used as a discriminator
-  * The input dataset consisted of 180 images of SiO2 particles 
-  * Supervisor: Professor. Andreas Maier
+  * Developed a Differentiable Trainable Renderer for Generative Adversarial Networks using Mitsuba2 and PyTorch
+  * Optimized scene parameters with Adversarial Loss for Synthetic Image Rendering of Silicon dioxide nanoparticles
 
 * May 2019 - July 2019: Research Internship
   * Indian Institute of Technology B.H.U, Varanasi, India
