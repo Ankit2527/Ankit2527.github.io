@@ -9,58 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-For full version - [pdf](/files/Ankit_ML_CV.pdf)
-
 Education
 ======
-* MSc. in Artificial Intelligence, University of Amsterdam, (expected 2023)
+* MSc. in Artificial Intelligence, University of Amsterdam, 2023
 * BTech. in Electronics and Communication Engineering, National Institute of Technology Tiruchirappalli, 2021
 
 
 Work experience
 ======
-* Machine Learning Engineer Intern: June 2022 – Present 
+* Machine Learning Engineer Intern: June 2022 – June 2023
   * Sensity AI, Amsterdam, Netherlands
   <!-- * Duties included: Tagging issues -->
-  * Contributed to Sensity’s ID Verification and Document Authentication services
-  * Implemented and trained various Deep Learning architectures in Classy Vision a PyTorch-based framework: ResNet-50, MobileNetV2, SiameseNet, and Dual Attention Network
-  * Scripting in Python and OpenCV for Synthetic Dataset Generation
-  * Scripting dockerfile and yaml templates to create docker development containers
+  * Developed a Forgery Detection Network achieving 5.2% higher test accuracy than baseline for detecting counterfeit ID cards using PyTorch classification models: ResNet, MobileNetV2, SiameseNet, EfficientNet, Dual Attention Network, and Visual Transformers (ViT). As a result enhancing Sensity’s ID Verification and Document Authentication services
+  * Dataset Generation using Computer Vision methodologies for augmented training of our Forgery Detection Network
+  * Contributed to Sensity’s Deepfake Detection API developing a generalized deepfake detection model for detection-in-the-wild
 
 
 * Remote Deep Learning Research Intern: April 2020 - August 2020
   * Pattern Recognition Lab, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
   <!-- * Duties included: Tagging issues -->
   * Nanoparticles occur in various environments as a consequence of man-made processes, which raises concerns about their impact on the environment and human health. To allow for proper risk assessment, a precise and statistically relevant analysis of particle characteristics (such as size, shape, and composition) is required and would greatly benefit from automated image analysis procedures. Collecting a real dataset of silicon dioxide nanoparticles is quite expensive. To overcome this issue, I worked on developing a Differentiable Trainable Renderer for Generative Adversarial Networks for the synthetic image rendering of silicon oxide nanoparticles under the guidance of Prof. Andreas Maier.
-  * Developed a Differentiable Trainable Renderer for Generative Adversarial Networks using Mitsuba2 and PyTorch
-  * Optimized scene parameters with Adversarial Loss for Synthetic Image Rendering of Silicon dioxide nanoparticles
+  * Developed a Differentiable Trainable Renderer for Generative Adversarial Networks using PyTorch for Synthetic Image Rendering of silicon dioxide nanoparticles which effectively reduced the costs of dataset collection through TEM imaging
 
 
 * Machine Learning Research Intern: May 2019 - July 2019
   * Visual Computing and Analytics Lab, Indian Institute of Technology B.H.U, Varanasi, India
   <!-- * Duties included: Merging pull requests -->
-  * Developed an algorithm for Breast Cancer Histopathological Image Classification under the guidance of Prof S.K. Singh
-  * Implemented SVM, Random Forest, Naive Bayes and XGBoost classifiers using the features extracted by the algorithm which resulted in a test accuracy of 97.91%
+  * Developed a Feature Extraction Algorithm as inputs to classification models like SVM, Random Forest, Naive Bayes, and XGBoost achieving 2% higher accuracy than baseline for breast cancer histopathological image classification
 
-Certifications
+Projects
 ======
-* Deep Learning Specialization:
-  * Neural Network and Deep Learning 
-  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  * Structuring Machine Learning Projects
-  * ConvolutionalNeuralNetworks
+* Guiding Text-to-Image Diffusion Model Towards Grounded Generation:
+  * [Report](https://drive.google.com/file/d/1MCBUU0tr1ojnIw9Q6ZzGyplvgt-d3jgx/view) of MSc AI Computer Vision-2 course project: [Repo Link](https://github.com/WalterSimoncini/grounded-diffusers)
+  * Achieved 4% higher mIoU while utilizing only 25% of the total dataset generated using Stable Diffusion compared to the baseline approach for open-vocabulary segmentation
+  * Investigated the impact of prompt engineering and vector maths for CLIP for image segmentation
 
-* DeepLearning.ai TensorFlow Developer Professional Certificate:
-  * Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning Convolutional Neural Networks
-  * Convolutional Neural Network in TensorFlow
+* Google Ads Keyword Idea Generator and Scorer:
+  * [Demo](https://drive.google.com/file/d/1ZhSVMuftiyTd_GM70GHg2420P_bPfcKZ/view)
+  * Created an LLM-powered app extracting keywords, generating new ideas through a LangChain agent, and fetching Google Ads metrics
+  * Deployable via Docker, served on Chainlit, with Redis-cached metrics
 
-* Fundamentals of Digital Image and Video Processing by Northwestern University
   
 Skills
 ======
-* Programming Languages : Python, PostgreSQL
-* Developer Tools: Git, Docker, Wandb, Linux
-* Frameworks and Libraries: Pandas, Matplotlib, PyTorch, PyTorch Lightning, OpenCV, Scikit-Learn, Flask, Classy Vision
+* Deep Learning Frameworks: Python, PyTorch, PyTorch Lightning, LangChain, LlamaIndex
+* Developer Tools: Linux, Git, Docker, Wandb, Latex, Azure
+* Libraries: PIL, OpenCV, NumPy, Pandas, Matplotlib, Scikit-Learn, Flask, Chainlit
 
 
 Publications
@@ -84,5 +78,8 @@ Teaching
 Leadership
 ======
 * President, Office of International Relations, NIT Tiruchirappalli (September 2020 – May 2021)
-* Team Leader oGE (Outgoing Global Entrepreneur), AIESEC in NIT Trichy (August 2019 – Nov. 2019)
+  * Successfully, led a team of 25+ members, spearheading campus internationalization policies under the ambit of the administration body of the Institute
+* International Exchange Global Volunteer at AIESEC in Poland May (2018 – June 2018)
+  * Worked on project ’Understand’ under the Sustainable Development Goal (SDG) Reduced Inequalities
+
 
